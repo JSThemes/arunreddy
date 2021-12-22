@@ -2816,7 +2816,12 @@ ul.gdlr-core-product-sub-category li h3{font-size: 18px;margin-top: 24px;margin-
 	.gdlr-core-pbf-wrapper-full{ max-width: 500px; padding-left: 15px; padding-right: 15px; }
 	.gdlr-core-pbf-column-content-margin{ padding-left: 0px !important; padding-right: 0px !important; margin-left: 0px !important; margin-right: 0px !important; }
 	.gdlr-core-pbf-wrapper-full-no-space{ max-width: 500px; }
-	.gdlr-core-pbf-wrapper-full-no-space .gdlr-core-pbf-column-content-margin{ padding-left: 30px !important; padding-right: 30px !important; }
+	.gdlr-core-pbf-wrapper-full-no-space .gdlr-core-pbf-column-content-margin{
+		padding: 54px 14px 178px !important;
+		padding-left: 16px !important; }
+		.gdlr-core-pbf-wrapper-full-no-space1 .gdlr-core-pbf-column-content-margin1{
+			padding: 54px 14px 178px !important;
+			padding-left: 16px !important; }
 	.gdlr-core-pbf-background-frame{ display: none; }
 	.gdlr-core-pbf-background{ background-attachment: inherit !important; } /* fix safari problem */
 	.gdlr-core-pbf-sidebar-wrapper{ margin: 0px !important; }
