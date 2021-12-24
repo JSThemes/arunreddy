@@ -460,7 +460,7 @@ body.admin-bar .mediz-overlay-menu-content{ margin-top: 32px; overflow-y: scroll
 /* header plain */
 .mediz-header-style-plain{ position: relative; border-bottom-style: solid; z-index: 101; }
 .mediz-header-style-plain .mediz-navigation{ line-height: 0; }
-.mediz-header-style-plain .mediz-header-background{ position: absolute; right: 0px; left: 0px; top: 0px; bottom: 0px; }
+.mediz-header-style-plain .mediz-header-background{ position: absolute; right: 0px; left: 0px; top: 0px; bottom: 0px; background-color: #5b1e39; }
 .mediz-header-background-transparent{ position: absolute; left: 0px; right: 0px; z-index: 3; }
 
 .mediz-header-style-plain.mediz-style-menu-right .mediz-logo{ float: left; }

@@ -144,7 +144,12 @@ body.mediz-boxed .mediz-body-wrapper{ margin-top: 0px; margin-bottom: 0px; }
 .mediz-header-boxed-wrap .mediz-top-bar-background{ margin-bottom: -0px; } 
 .mediz-header-style-boxed{ margin-top: 0px; } 
 .mediz-header-container.mediz-header-custom-container{ max-width: 1140px; } 
-.mediz-header-container.mediz-header-full{ padding-right: 15px; padding-left: 15px; } 
+.mediz-header-container.mediz-header-full{ 
+	padding-right: 15px; 
+	padding-left: 15px;
+	/* background-color: #5b1e39; */
+
+} 
 .mediz-header-boxed-wrap .mediz-header-background{ border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; } 
 .mediz-header-style-boxed .mediz-header-container-item{ padding-left: 30px; padding-right: 30px; }.mediz-navigation-right{ right: 30px; } .mediz-navigation-left{ left: 30px; } 
 .mediz-header-style-plain.mediz-style-splitted-menu .mediz-navigation .sf-menu > li > a{ padding-top: 0px; } .mediz-header-style-plain.mediz-style-splitted-menu .mediz-main-menu-left-wrap,.mediz-header-style-plain.mediz-style-splitted-menu .mediz-main-menu-right-wrap{ padding-top: 0px; } 
@@ -302,7 +307,7 @@ body.mediz-boxed .mediz-body-wrapper, .gdlr-core-page-builder .gdlr-core-page-bu
 .mediz-body h1, .mediz-body h2, .mediz-body h3, .mediz-body h4, .mediz-body h5, .mediz-body h6{ color: #161616; }.woocommerce table.shop_attributes th, .woocommerce table.shop_table th, .single-product.woocommerce div.product .product_meta .mediz-head{ color: #161616; } 
 .mediz-body a{ color: #3d3d3d; }.mediz-blog-style-3 .mediz-comments-area .comment-reply a, .mediz-blog-style-3 .mediz-comments-area .comment-reply a:hover{ color: #3d3d3d; } 
 .mediz-body a:hover{ color: #606060; } 
-.mediz-body *{ border-color: #e6e6e6; }.mediz-body .gdlr-core-portfolio-single-nav-wrap{ border-color: #e6e6e6; }.gdlr-core-product-grid-4:hover .gdlr-core-product-title{ border-color: #e6e6e6; }.gdlr-core-columnize-item .gdlr-core-columnize-item-content{ column-rule-color: #e6e6e6; -moz-column-rule-color: #e6e6e6; -webkit-column-rule-color: #e6e6e6; } 
+.mediz-body *{ border-color: #5b1e39; }.mediz-body .gdlr-core-portfolio-single-nav-wrap{ border-color: #5b1e39; }.gdlr-core-product-grid-4:hover .gdlr-core-product-title{ border-color: #e6e6e6; }.gdlr-core-columnize-item .gdlr-core-columnize-item-content{ column-rule-color: #e6e6e6; -moz-column-rule-color: #e6e6e6; -webkit-column-rule-color: #e6e6e6; } 
 .mediz-body input, .mediz-body textarea, .mediz-body select, .woocommerce form .select2-selection{ background-color: #f7f7f7; } 
 .mediz-body input, .mediz-body textarea, .mediz-body select, .woocommerce form .select2-selection{ border-color: #e0e0e0; } 
 .mediz-body input, .mediz-body textarea, .mediz-body select, .woocommerce form .select2-selection{ color: #979797; } 
@@ -343,7 +348,7 @@ ul.gdlr-core-custom-menu-widget.gdlr-core-menu-style-box li a:hover, ul.gdlr-cor
 .mediz-footer-wrapper a{ color: #1b1919; } 
 .mediz-footer-wrapper a:hover{ color: #17449e; } 
 .mediz-footer-wrapper, .mediz-footer-wrapper *{ border-color: #dddddd; } 
-.mediz-copyright-wrapper{ background-color: #ffffff; } 
+.mediz-copyright-wrapper{ background-color: #5b1e39 !important; } 
 .mediz-copyright-wrapper{ color: #afafaf; } 
 .mediz-copyright-wrapper a{ color: #838383; } 
 .mediz-copyright-wrapper a:hover{ color: #838383; } 
@@ -580,6 +585,7 @@ span.woocommerce-Price-amount.amount{ color: #707070; }.mediz-top-cart-content-w
 .mediz-mobile-header {
     padding-top: 25px;
     padding-bottom: 25px;
+	background-color: #5b1e39;
 } 
 .gdlr-core-page-builder-body [data-skin="White Text"] h1, .gdlr-core-page-builder-body [data-skin="White Text"] h2, .gdlr-core-page-builder-body [data-skin="White Text"] h3, .gdlr-core-page-builder-body [data-skin="White Text"] h4, .gdlr-core-page-builder-body [data-skin="White Text"] h5, .gdlr-core-page-builder-body [data-skin="White Text"] h6, .gdlr-core-page-builder-body [data-skin="White Text"] .gdlr-core-skin-title, .gdlr-core-page-builder-body [data-skin="White Text"] .gdlr-core-skin-title a{ color: #ffffff }
 .gdlr-core-page-builder-body [data-skin="White Text"] .gdlr-core-skin-caption, .gdlr-core-page-builder-body [data-skin="White Text"] .gdlr-core-skin-caption a, .gdlr-core-page-builder-body [data-skin="White Text"] .gdlr-core-skin-caption a:hover{ color: #a1a1a1 }
