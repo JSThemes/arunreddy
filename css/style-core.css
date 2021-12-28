@@ -2140,7 +2140,8 @@ p.zeno_font_resizer .screen-reader-text {
 	padding: 15px; 
 	width: 100%;
 	display: block; -webkit-appearance: none; 
-	background-color:#17449e; 
+	/* background-color:#17449e;  */
+	background-color: #9f4778; 
 	border: 0;
 	color: #fff;
 	font-style: normal !important;
