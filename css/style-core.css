@@ -2224,3 +2224,10 @@ section {
   .navItem:hover{
 	  color:white !important;
   }
+
+  .list-group-item.active {
+    z-index: 2;
+    color: white;
+    background-color: #14a3aa;
+    border-color: #0d6efd;
+}
