@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29 43" width="29" height="43">
+	<title>icon-col-1</title>
+	<defs>
+		<image  width="29" height="43" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAArCAMAAACzbnONAAAAAXNSR0IB2cksfwAAAEhQTFRFzPP/yvH/x+//xO3/wuz/v+r/vOj/uub/t+T/tOL/suH/r9//rN3/qtv/p9n/pNj/////////+fz/+vz//f7//P3/+/3/////G8FpewAAABh0Uk5TAAAAAAAAAAAAAAAAAAAAAAD////2+fvz6X+hAQAAAMpJREFUeJy10tkSgyAMBVCULi5Vk67//6eVxLBJrJ1p8+RwFMg1xlS1PRxP56bt+sswTkCFrgBMSRGvzAV16zdFaRnv/FJQjAsyzYxZNKfkWyHpaOlJUUzunCk+QhrhTMmK0gDSgElWQBq3wjo/PPnqC0pHoi8I6tPwOUOmTauo9ep2jvPKFCdUtFtFnWhfVNeR7Byb16jgl8p/cJ66kvLk0EwqukzspirnbilGWUGiZq/SP8q0kpw/67jSepeiqrhHhz8o1/dqVX0DRvlELE++FT8AAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Background" href="#img1" x="0" y="0" />
+</svg>
