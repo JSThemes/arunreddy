@@ -1,7 +1,7 @@
 /*
     DEMO STYLE
 */
-@import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
+/* @import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
 
 
 body {
@@ -48,7 +48,7 @@ a, a:hover, a:focus {
 /* ---------------------------------------------------
     SIDEBAR STYLE
 ----------------------------------------------------- */
-
+/* 
 .wrapper {
     display: flex;
     width: 100%;
@@ -142,13 +142,13 @@ a.article, a.article:hover {
     background: #6d7fcc !important;
     color: #fff !important;
 }
-
+ */
 
 
 /* ---------------------------------------------------
     CONTENT STYLE
 ----------------------------------------------------- */
-#content {
+/* #content {
     width: 100%;
     padding: 20px;
     min-height: 100vh;
@@ -187,13 +187,13 @@ a.article, a.article:hover {
     transform: none;
     opacity: 1;
     margin: 5px auto;
-}
+} */
 
 
 /* ---------------------------------------------------
     MEDIAQUERIES
 ----------------------------------------------------- */
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
     #sidebar {
         margin-left: -250px;
         transform: rotateY(90deg);
@@ -222,8 +222,68 @@ a.article, a.article:hover {
         transform: rotate(-45deg) translate(1px, -1px);
     }
 
+} */ 
+
+.hip-candidate {
+    background: url(./upload/hip-candidate-bg.png) no-repeat 0px 0px;
+    /* position: absolute; */
+    width: 570px;
+    height: 265px;
+    /* left: 15px; */
+    /* top: 35px; */
 }
 
- /* .list-group-item-action{
-    border:none !important;
-}   */
+.hip-candidate h4 {
+    font: 500 28px/28px 'Montserrat', sans-serif;
+    color: #181818;
+    text-transform: uppercase;
+    padding: 30px 0px 0px 215px;
+}
+
+.hip-candidate p {
+    font: 400 16px/22px 'Montserrat', sans-serif;
+    color: #181818;
+    padding: 5px 35px 10px 215px;
+}
+
+
+.am-more {
+    font: 500 16px/16px 'Montserrat', sans-serif;
+    text-align: center;
+    width: 175px;
+    margin: 10px 0px 0px 38%;
+}
+
+.knee-candidate {
+    background: url(./upload/knee-candidate-bg.png) no-repeat 0px 0px;
+    /* position: absolute; */
+    width: 570px;
+    height: 265px;
+    left: 15px;
+    top: 35px;
+}
+
+.knee-more {
+    margin: 10px 0px 0px 8%;
+}
+
+.knee-candidate h4 {
+    font: 500 28px/28px 'Montserrat', sans-serif;
+    color: #181818;
+    text-transform: uppercase;
+    padding: 24px 0px 0px 45px;
+}
+.knee-candidate p {
+    font: 400 16px/22px 'Montserrat', sans-serif;
+    color: #181818;
+    padding: 5px 36% 10px 45px;
+}
+
+.gdlr-core-accordion-style-icon1 {
+    color: white !important ;
+}
+
+.gdlr-core-accordion-style-icon1 .gdlr-core-accordion-item-tab.gdlr-core-active .gdlr-core-accordion-item-icon1:before {
+    content: "\4b";
+    color: white;
+}
