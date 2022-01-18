@@ -287,3 +287,9 @@ a.article, a.article:hover {
     content: "\4b";
     color: white;
 }
+
+@media screen and (max-device-width: 480px) {
+   .m-display{
+       display: none;
+    }
+}
